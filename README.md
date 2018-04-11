@@ -22,6 +22,14 @@ cd appdemos
 yarn run start
 ```
 
+## web access
+
+```bash
+yarn run start 
+
+http://localhost/web/index.html
+```
+
 ## some images
 
 ![image](./images/36581341.png)
