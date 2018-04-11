@@ -22,7 +22,7 @@ cd appdemos
 yarn run start
 ```
 
-## web access
+*  web access
 
 ```bash
 yarn run start 
